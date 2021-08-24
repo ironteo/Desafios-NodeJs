@@ -1,0 +1,11 @@
+{
+  "name": "desafio-servidores_welcome_world-teobaldo_lunas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Teobaldo Lunas",
+  "license": "ISC"
+}
